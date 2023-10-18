@@ -1,3 +1,8 @@
-# grace_pick_up
+# Grace All-Star Academy Pickup & Dropoff
 
-Testing
+### October 18 Drop-Off Arrangement
+
+| Number      | Location | Name |
+| ----------- | ----------- | ----------- |
+| 1      | Park Village     | Leon Qiang |
+| 2   | Park Village        | Yitian Xu |
