@@ -16,7 +16,7 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 14:05 | Adobe Bluffs | 9   |
+| 14:05 | Adobe Bluffs | 8   |
 | 15:05 | Monterey Ridge | 19  |
 
 🚺 Mrs. Wan 🚺
@@ -69,7 +69,6 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 11:45 | Stone Ranch |1|
-| 12:55 | Chaparral |1|
 | 14:30 | Country |1|
 | 15:05 | Chaparral|3|
 
