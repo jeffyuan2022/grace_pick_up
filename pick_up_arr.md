@@ -51,7 +51,7 @@
 | ----- | --------- | ------ |
 | 13:00 | Park Village | 3 |
 | 14:05 | Garden Road | 1 |
-| 15:05 | Creekside | 3 |
+| 15:05 | Creekside | 1 |
 
 🚹 Mr. Yu Wang 🚹
 🔑 Van D 🔑 
