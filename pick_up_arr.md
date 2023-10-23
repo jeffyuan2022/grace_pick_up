@@ -15,7 +15,7 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 14:05 | Adobe Bluffs | 8   |
+| 14:05 | Adobe Bluffs | 9   |
 | 15:05 | Monterey Ridge | 19  |
 
 🚺 Mrs. Wan 🚺
