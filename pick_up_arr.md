@@ -3,7 +3,7 @@
 ![10_23_arr](10_23_arr.jpg)
 
 🚺 Mrs. Wang 🚺
-🔑 Van B 🔑
+🔑 Cici's Car 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
@@ -19,12 +19,13 @@
 | 15:05 | Monterey Ridge | 19  |
 
 🚺 Mrs. Wan 🚺
-🔑 OC 🔑
+🔑 Van B 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 13:45 | Highland Ranch | 1 |
 | 14:50 | Solana Santa Fe | 2 |
+| 15:15 | Design 39 | 12 |
 
 🚹 Mr. Michael Liu 🚹
 🔑 Van L 🔑
@@ -32,7 +33,7 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 14:05 | Sundance | 2 |
-| 15:15 | Design 39 | 9 |
+| 15:15 | Design 39 | 12 |
 
 🚹 Mr. Tevita 🚹
 🔑 Van Z 🔑
@@ -40,7 +41,7 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 11:30 | Park Time | 11 |
-| 15:05 | Del Sur | 13 |
+| 15:05 | Del Sur | 14 |
 | 16:20 | Stone Ranch | 1 |
 
 🚹 Mr. Jay 🚹
@@ -48,7 +49,7 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 13:00 | Park Village | 2 |
+| 13:00 | Park Village | 3 |
 | 14:05 | Garden Road | 1 |
 | 15:05 | Creekside | 3 |
 
@@ -57,7 +58,7 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ | 
-| 14:05 | Stone Ranch | 5 |
+| 14:05 | Stone Ranch | 6 |
 | 15:00 | Dingeman | 2 | 
 
 🚺 Mrs. Yan Zhou 🚺
@@ -66,7 +67,7 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 12:55 | Chaparral |1|
-| 15:05 | Chaparral |3|
+| 15:05 | Chaparral |4|
 
 🚹 Mr. Tony 🚹
 🔑 Van F 🔑 
@@ -74,8 +75,8 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 12:00 | Adobe Bluffs |1|
-| 13:00 | Monterey Ridge |1|
-| 14:45 | Park Village |2|
+| 13:00 | Monterey Ridge |2|
+| 14:45 | Park Village |4|
 | 14:45 | Mesa Verde | 1 |
 | 15:15 | Deer Canyon |4|
 
@@ -84,8 +85,8 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 14:45 | Canyon View |2|
-| 15:00 | Cambridge |1|
+| 14:45 | Canyon View |3|
+| 15:00 | Cambridge |2|
 
 🚺 Mrs. Cici 🚺
 🔑 Van E 🔑 
@@ -99,5 +100,5 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 14:45 | Lifetime |1|
+| 14:45 | Lifetime |2|
 | 15:00 | Solana Ranch |1|
