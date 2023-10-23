@@ -1,6 +1,6 @@
-### October 23 Pick-Up Arrangement
+# October 23 Pick-Up Arrangement
 
-![10_23_arr](10_23_arr.jpg)
+![10_23_pick](10_23_pick.jpg)
 
 🚺 Mrs. Wang 🚺
 🔑 Cici's Car 🔑
@@ -58,7 +58,7 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ | 
-| 14:05 | Stone Ranch | 6 |
+| 14:05 | Stone Ranch | 5 |
 | 15:00 | Dingeman | 2 | 
 
 🚺 Mrs. Yan Zhou 🚺
@@ -70,13 +70,13 @@
 | 15:05 | Chaparral |4|
 
 🚹 Mr. Tony 🚹
-🔑 Van F 🔑 
+🔑 Van E 🔑 
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 12:00 | Adobe Bluffs |1|
 | 13:00 | Monterey Ridge |2|
-| 14:45 | Park Village |4|
+| 14:45 | Park Village |5|
 | 14:45 | Mesa Verde | 1 |
 | 15:15 | Deer Canyon |4|
 
@@ -89,7 +89,7 @@
 | 15:00 | Cambridge |2|
 
 🚺 Mrs. Cici 🚺
-🔑 Van E 🔑 
+🔑 Van F 🔑 
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |

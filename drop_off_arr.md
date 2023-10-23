@@ -1,3 +1,3 @@
-# October 23 Drop-Off Schedule
+# October 23 Drop-Off Arrangement
 
-![Not Ready]()
+![10_23_drop](10_23_drop.jpg)
