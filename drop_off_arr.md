@@ -1,3 +1,3 @@
-# October 20 Drop-Off Schedule
+# October 23 Drop-Off Schedule
 
 ![Not Ready]()
