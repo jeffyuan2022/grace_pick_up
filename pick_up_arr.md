@@ -1,22 +1,21 @@
 # October 23 Pick-Up Arrangement
 
-![10_23_pick](10_23_pick.jpg)
+![10_24_pick](10_24_pick.jpg)
 
 🚺 Mrs. Wang 🚺
-🔑 Cici's Car 🔑
+🔑 Van B 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 11:30 | Park Time | 11     |
-| 15:05 | Willow Grove | 1 |
+| 12:00 | Horizon Prep | 1 |
 
 🚹 Mr. Li 🚹
 🔑 Van G 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 14:05 | Adobe Bluffs | 11   |
-| 15:05 | Monterey Ridge | 19  |
+| 14:05 | Adobe Bluffs | 13   |
+| 15:05 | Monterey Ridge | 24  |
 
 🚺 Mrs. Wan 🚺
 🔑 Van B 🔑
@@ -24,24 +23,25 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 13:45 | Highland Ranch | 1 |
-| 14:50 | Solana Santa Fe | 2 |
-| 15:15 | Design 39 | 12 |
+| 14:50 | Solana Santa Fe | 3 |
 
 🚹 Mr. Michael Liu 🚹
-🔑 Van L 🔑
-
-| Time  | Location  | Number |
-| ----- | --------- | ------ |
-| 14:05 | Sundance | 2 |
-| 15:15 | Design 39 | 12 |
-
-🚹 Mr. Tevita 🚹
 🔑 Van Z 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
+| 14:05 | Sundance | 1 |
+| 15:15 | Design 39 | 11 |
+
+🚹 Mr. Tevita 🚹
+🔑 Van L 🔑
+
+| Time  | Location  | Number |
+| ----- | --------- | ------ |
 | 11:30 | Park Time | 11 |
-| 15:05 | Del Sur | 14 |
+| 13:00 | Park Village | 2 |
+| 14:05 | Garden Road | 1 |
+| 15:05 | Del Sur | 16 |
 | 16:20 | Stone Ranch | 1 |
 
 🚹 Mr. Jay 🚹
@@ -49,25 +49,29 @@
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 13:00 | Park Village | 3 |
-| 14:05 | Garden Road | 1 |
-| 15:05 | Creekside | 1 |
+| 11:30 | Park Time | 11 |
+| 14:45 | Sundance | 1 |
+| 15:05 | Del Sur | 16 |
 
 🚹 Mr. Yu Wang 🚹
-🔑 Van D 🔑 
+🔑 Van F 🔑 
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ | 
-| 14:05 | Stone Ranch | 5 |
-| 15:00 | Dingeman | 2 | 
+| 14:05 | Stone Ranch | 7 |
+| 15:00 | Dingeman | 3 | 
+| 15:15 | EB Scripps | 3 |
 
 🚺 Mrs. Yan Zhou 🚺
 🔑 Van A 🔑 
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 12:55 | Chaparral |1|
-| 15:05 | Chaparral |4|
+| 11:45 | Stone Ranch | 1 |
+| 12:55 | Chaparral | 1 |
+| 14:30 | Country | 1 |
+| 14:45 | St. Michael | 1 |
+| 15:05 | Chaparral | 5 |
 
 🚹 Mr. Tony 🚹
 🔑 Van E 🔑 
@@ -76,9 +80,10 @@
 | ----- | --------- | ------ |
 | 12:00 | Adobe Bluffs |1|
 | 13:00 | Monterey Ridge |2|
-| 14:45 | Park Village |5|
+| 13:45 | Westwood | 4 |
+| 14:45 | Park Village |4|
 | 14:45 | Mesa Verde | 1 |
-| 15:15 | Deer Canyon |4|
+| 15:15 | Deer Canyon | 5 |
 
 🚺 Mrs. Sophia 🚺
 🔑 OC 🔑 
@@ -89,11 +94,11 @@
 | 15:00 | Cambridge |2|
 
 🚺 Mrs. Cici 🚺
-🔑 Van F 🔑 
+🔑 Van D 🔑 
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 15:05 | Monterey Ridge |19|
+| 15:05 | Monterey Ridge |24|
 
 🚹 Mr. Diego 🚹
 🔑 OC 🔑 
@@ -101,4 +106,3 @@
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
 | 14:45 | Lifetime |2|
-| 15:00 | Solana Ranch |1|

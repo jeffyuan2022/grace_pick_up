@@ -1,3 +1,3 @@
 # October 23 Drop-Off Arrangement
 
-![10_23_drop](10_23_drop.jpg)
+![10_24_drop](10_24_drop.jpg)
