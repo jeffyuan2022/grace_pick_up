@@ -1,4 +1,4 @@
-# October 23 Pick-Up Arrangement
+# October 24 Pick-Up Arrangement
 
 ![10_24_pick](10_24_pick.jpg)
 
